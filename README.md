@@ -18,6 +18,6 @@ But to actually preview it, do
 ```javascript
 preview.<language>(<code>);
 ```
-and replacing <language> with a supported language, and <code> with your code.
+and replacing language with a supported language, and code with your code.
 ## What
 Previewjs is nothing more than a compiler. It takes code and compiles it.
