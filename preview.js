@@ -1,4 +1,4 @@
-function Preview(frame){
-  const inst = document.getElementById(frame);
-  let preview = {};
-}
+let preview = {};
+preview.init = function(frame){
+  preview.instance = document.getElementById(frame);
+};
